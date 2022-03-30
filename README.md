@@ -12,7 +12,7 @@
 * For demonstration purposes the id is admin and pass - 12345
 * These can be changed in the buildCred() function in the source file.
 
-# Folder Structure
+# Folder Structuree
 
 |Folder|Description|
 |---|---|
